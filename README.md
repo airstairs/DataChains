@@ -1,4 +1,8 @@
-# DataChains  
+# DataChains    
+
+
+
+![notebook snippet](r1.jpg)  
 
 
 ![example of linkingnthenclassesthayholdvsrsintkachain](sr.gif)  
