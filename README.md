@@ -11,4 +11,6 @@
 
 ![notebook snippet](r.jpg)  
 
-[see full code in notebook](test/makesmaller.ipynb)
+[see full code in notebook](test/makesmaller.ipynb)  
+
+[smaller version?](test/makesmaller_again.ipynb)
