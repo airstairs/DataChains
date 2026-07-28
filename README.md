@@ -5,7 +5,11 @@
 ![notebook snippet](code.jpg)  
 
 
-![example of linkingnthenclassesthayholdvsrsintkachain](sr.gif)  
+![example of linkingnthenclassesthayholdvsrsintkachain](sr.gif)   
+
+
+
+![notebook snippet](kcode.jpg)  
 
 
 
