@@ -10,4 +10,7 @@
 
 
 
-[latest version](test/makesmaller-again.ipynb)
+[latest version](test/makesmaller-again.ipynb)  
+
+
+[kotlin version](test/kotlinvers-make-smalleragain.ipynb)
