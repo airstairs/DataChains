@@ -13,4 +13,7 @@
 
 [see full code in notebook](test/makesmaller.ipynb)  
 
-[smaller version?](test/makesmaller_again.ipynb)
+
+
+
+[smaller version?](test/makesmaller-again.ipynb)
