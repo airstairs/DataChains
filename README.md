@@ -2,18 +2,12 @@
 
 
 
-![notebook snippet](r1.jpg)  
+![notebook snippet](code.jpg)  
 
 
 ![example of linkingnthenclassesthayholdvsrsintkachain](sr.gif)  
 
 
 
-![notebook snippet](r.jpg)  
 
-[see full code in notebook](test/makesmaller.ipynb)  
-
-
-
-
-[smaller version?](test/makesmaller-again.ipynb)
+[latest version](test/makesmaller-again.ipynb)
