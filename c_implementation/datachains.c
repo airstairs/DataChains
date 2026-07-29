@@ -37,7 +37,7 @@ int main() {
     // Optional: Print a node to verify
     printf("Sample check (node value): %d\n", head->next->next->x);
 
-    // Clean up memory (Note: freeing 300 million nodes sequentially can also take a moment)
+    // Clean up memory (Note: freeing 100 million nodes sequentially can also take a moment)
     Node *current = head;
     while (current != NULL) {
         Node *temp = current;
