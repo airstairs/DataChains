@@ -11,7 +11,7 @@
 [click me](Untitled.ipynb)
 
 
-![notebook snippet](code.png)  
+![notebook snippet](code.jpg)  
 
 
 ![example of linkingnthenclassesthayholdvsrsintkachain](sr.gif)   
