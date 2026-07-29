@@ -1,7 +1,7 @@
 # DataChains  
 ## aka Python Lists for any Programming language   
 
-![crun](c_implementation/crun.jpg)
+![crun](c_implementation/crun.png)
 
 
 [300 million](https://colab.research.google.com/drive/1RILYOwOIwzt5pVTLRNWA35VxCEEyLLpl?usp=sharing)
