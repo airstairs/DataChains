@@ -18,7 +18,7 @@ int main() {
 
     Node *last = head;
 
-    // Loop to add 300 million nodes sequentially
+    // Loop to add 100 million nodes sequentially
     for (int i = 1; i < 100000000; i++) {
         Node *new_node = (Node *)malloc(sizeof(Node));
         new_node->x = i;
