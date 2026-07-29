@@ -1,7 +1,13 @@
 # DataChains  
-## aka Python Lists for any Programming language   
+## aka Python Lists for any Programming language    
 
-![cover](c_implementation/cover.png)
+
+<hr>
+
+![fa](c_implementation/fa.jpg))  
+
+<hr>
+
 
 
 [300 million](https://colab.research.google.com/drive/1RILYOwOIwzt5pVTLRNWA35VxCEEyLLpl?usp=sharing)
