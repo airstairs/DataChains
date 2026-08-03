@@ -10,7 +10,7 @@
 
 <hr>
 
-![fa](c_implementation/fa.jpg))  
+![fa](c_implementation/fa.jpg)  
 
 <hr>
 
