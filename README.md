@@ -2,6 +2,12 @@
 ## aka Python Lists for any Programming language    
 
 
+
+
+
+![sin in sin aka signin! list anim](anim/sin_in_sin.gif)   
+
+
 <hr>
 
 ![fa](c_implementation/fa.jpg))  
